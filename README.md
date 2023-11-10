@@ -50,7 +50,8 @@
     2. Paste **arn:aws:lambda:us-east-1:770693421928:layer:Klayers-p311-Pillow:2**
         
         <aside>
-        💡 [ARN reference](https://github.com/keithrozario/Klayers) (Remember to choose the match Runtime **version** and **region**)
+        💡 [ARN reference](https://github.com/keithrozario/Klayers) 
+            (Remember to choose the match Runtime **version** and **region**)
         
         </aside>
         
